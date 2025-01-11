@@ -35,7 +35,7 @@ export function ViewWidth() {
         <div className="flex flex-col gap-[2vh]">
           <div className="flex items-center flex-col gap-[0.7vh]">
             <h1 className="text-white text-[3vh]">PX to VW</h1>
-            <p className="text-zinc-400 min-w-[34vh] sm:text-[0.1vh]">
+            <p className="text-zinc-400">
               Conversão de unidades de medida PX para VW.
             </p>
           </div>
